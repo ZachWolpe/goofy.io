@@ -79,7 +79,7 @@ messages = [
     'I\'ve encrypted a message for you, just for fun.',
     'The message is made up of 2^(125*21) bits (binary encoding), that means there are this many possible combinations:\n',
     2**(125*21),
-    'Yikes! That\'s a lot of permutations :(. Luckly I\'ve attached a basic genetic algorithm (GA) that makes quick work of the search space!',
+    'Yikes! That\'s a lot of permutations :(. Luckly I\'ve attached a basic genetic algorithm (GA) that makes quick work of this search space!',
     'press ENTER to run the GA and decrypt the message...'
 ]
 
